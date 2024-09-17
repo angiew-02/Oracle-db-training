@@ -1,2 +1,2 @@
 # Oracle-db-training
-oracle SQL Training
+oracle SQL training
